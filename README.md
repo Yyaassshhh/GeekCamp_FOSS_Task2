@@ -16,4 +16,3 @@ you have two subtasks: Subtask-1, and Subtask-2.
 
 ● Now, while doing these tasks, you have to make sure that you solve all the merge conflicts, if any present, & hence you will be asked again & again to do the same.
 
-● Remember, you have to make 2 different PRs, in 2 different branches, and once they are merged, then only your task 2 will be completed.
